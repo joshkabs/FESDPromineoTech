@@ -1,0 +1,89 @@
+body{
+    background-color: #df5e5e;
+}
+#HomePageDiv{
+    color: #7b4f0b;
+    background-color: #ffffff;
+    border: 2px #ffffff;
+    border-radius: 5px;
+    border-style: solid dotted;
+    padding: 2px 2px 2px 2px;
+}
+#RecipesDiv{
+    color: #eecc9a;
+    background-color: #ffffff;
+    border: 2px #1896f5;
+    border-radius: 5px;
+    border-style: solid dotted;
+    padding: 3px 3px 3px 3px;
+}
+#AboutPageDiv{
+    color: #030303;
+    background-color: #fb8a8a;
+    border: 2px #07fc1b;
+    border-radius: 5px;
+    border-style: dotted solid;
+    padding: 3px 3px 3px 3px;
+}
+#SubmitRecipeDiv{
+    color: #504f4f;
+    background-color: #f70ad0;
+    border: 2px #e5f50b;
+    border-radius: 5px;
+    border-style: dotted solid;
+    padding: 3px 3px 3px 3px;
+}
+.Header1{
+    color:#7b4f0b;
+    background-color: #f5a6a6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.Header3{
+    color:#7b4f0b;
+    text-align: left;
+}
+.AddInfo{
+    color: #ff0000;
+}
+.Recipes{
+    color:#030303;
+    background-color: #ffffff;
+    text-decoration-line: underline;
+}
+#AboutHeader{
+    color: #6a329f;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+P{
+    color: #f44336;
+}
+.Links{
+    color: #2986cc;
+    font-weight: bold;
+}
+.SocialMedia{
+    color: #ffffff;
+}
+th{
+    color: #000000;
+    font-weight: bold;
+}
+#SubmitRecipeHeader{
+    color: #073763;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+.Submit3{
+    color:black
+}
+form{
+    color:#08f65f;
+}
+li{
+    color:#000000;
+}
+
+
